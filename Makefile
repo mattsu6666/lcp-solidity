@@ -1,4 +1,4 @@
-SOLC_VERSION ?= 0.8.19
+SOLC_VERSION ?= 0.8.24
 FORGE ?= forge
 
 .PHONY: proto-sol
